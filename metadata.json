@@ -1,0 +1,6 @@
+{
+  "name": "Chronos-Academic",
+  "description": "Estratega de gestión del tiempo y rendimiento cognitivo para estudiantes: planes maestros diarios basados en cronobiología, time-blocking y recuperación activa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
